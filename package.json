@@ -1,11 +1,24 @@
 {
   "name": "git_demo",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anael5222/my-git-demo.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Anael5222/my-git-demo/issues"
+  },
+  "homepage": "https://github.com/Anael5222/my-git-demo#readme",
+  "description": ""
 }
